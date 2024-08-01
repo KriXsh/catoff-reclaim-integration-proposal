@@ -3,7 +3,7 @@
 Welcome to the Catoff-Reclaim Integration Open Source Project! This project allows users to integrate different data providers with the [Reclaim](https://dev.reclaimprotocol.org/) protocol for use within the [Catoff](https://www.catoff.xyz) platform. By following the steps outlined in this guide, you can contribute new integrations to the project.
 
 ## Table of Contents
-
+   
 - [Introduction](#introduction)
 - [How to Contribute](#how-to-contribute)
 - [Proposal Template](#proposal-template)
